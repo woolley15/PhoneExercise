@@ -1,0 +1,13 @@
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/PhoneExerciseApplication.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/repository/UserRepository.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/config/GlobalDefaultExceptionHandler.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/config/WebSecurityConfiguration.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/model/PhoneModels.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/repository/PhoneRepository.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/controller/PhoneController.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/services/PhoneService.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/model/ErrorMessage.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/services/UserService.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/model/User.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/model/Phone.java
+/Users/I543009/Documents/PhoneExercise/src/main/java/com/mark/PhoneExercise/controller/UserController.java

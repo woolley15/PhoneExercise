@@ -1,0 +1,23 @@
+---
+spring:
+  profiles:
+    active:
+      - local
+---
+spring:
+  profiles: local
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:PhoneExerciseDb
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.H2Dialect
+        show_sql: true
