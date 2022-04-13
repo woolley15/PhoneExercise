@@ -21,7 +21,7 @@ Challenge to Spring Boot RESTful Web Service application that will be used to ma
 
 ### Installation
 
-1. Download code from the repository and import as maven project.
+1. Clone code from the repository into your IDE.
 2. To run right-click on the main application file (PhoneExerciseApplication) and run it as a Java Application.
 3. While the application is running the Rest endpoints can be hit using the PostMan Collection provided. There is a data.sql file so the application comes with some pre-loaded test data.
 4. To run tests use the terminal and the command 'mvn test'
